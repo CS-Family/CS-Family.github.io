@@ -1,7 +1,9 @@
 # CS-Family官方网站
-在这里，您可以了解我们的产品进度
+在这里，您可以了解我们的产品进度。目前我们团队拥有如下两个项目仓库：
 - [onlineLearning前端](https://github.com/CS-Family/onlineLearning)
 - [onlineLearning后端](https://github.com/CS-Family/onlineLearning_backend)
+
+
 ## Welcome to GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/CS-Family/CS-Family.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
