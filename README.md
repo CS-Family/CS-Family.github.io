@@ -3,6 +3,14 @@
 - [onlineLearning前端](https://github.com/CS-Family/onlineLearning)
 - [onlineLearning后端](https://github.com/CS-Family/onlineLearning_backend)
 
+## onlineLearning前端
+
+onlineLearning前端包含两个部分，分别是电脑端和微信小程序，前者供老师激活学生账户和出题，后者则用于学生上课答题
+支持平台      | PC            |   微信小程序 
+:------------ | :-------------| :-------------
+目前          |  ✖️           | ✔️
+
+- [x] Mercury
 
 ## Welcome to GitHub Pages 
 
