@@ -22,6 +22,14 @@ PC            |  ✖️           | 教师
 - [ ] 主页
 - [ ] 答题
 
+### 更新
+
+#### 2021/8/6
+
+给学校选择页面增加网络超时提示
+
+<a href="https://imgtu.com/i/fnx7uD"><img src="https://z3.ax1x.com/2021/08/06/fnx7uD.png" alt="fnx7uD.png" border="0" width="280" /></a>
+
 ## onlineLearning后端
 
 该[共享文档](https://kdocs.cn/l/cecVelkoderZ)将会不定期更新后端数据库的设计
