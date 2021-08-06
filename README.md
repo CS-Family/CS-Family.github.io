@@ -28,7 +28,7 @@ PC            |  ✖️           | 教师
 
 给学校选择页面增加网络超时提示
 
-<a href="https://imgtu.com/i/fnx7uD"><img src="https://z3.ax1x.com/2021/08/06/fnx7uD.png" alt="fnx7uD.png" border="0" width="280" /></a>
+<img src="https://z3.ax1x.com/2021/08/06/fnx7uD.png" alt="fnx7uD.png" border="0" width="280" />
 
 ## onlineLearning后端
 
